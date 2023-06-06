@@ -2,7 +2,7 @@
 
 The [`characters.json`](characters.json) file contains all characters in the game, including travellers and fabled, with their full name, ability, reminder tokens, and jinxes. Characters are in the order they should appear on the script ("Standard Amy Order").
 
-The [`night-order.json`](night-order.json) file contains the order in which characters act for both the first night and other nights.
+The [`night-order.json`](night-order.json) file contains the order in which characters act for both the first night and other nights. Names that start with an underscore are used to mark dusk, dawn, and Minion/Demon info.
 
 The [`icons`](icons/) directory contains icons for all characters from both the [script tool](https://script.bloodontheclocktower.com/) (in [`icons/script`](icons/script/)) and from the [clocktower.online](https://clocktower.online/) tool (in [`icons/token`](icons/token/)).
 
