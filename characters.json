@@ -1,6 +1,6 @@
 [
     {
-        "id": "bountyhunter",
+        "id": "bounty_hunter",
         "name": "Bounty Hunter",
         "type": "townsfolk",
         "ability": "You start knowing 1 evil player. If the player you know dies, you learn another evil player tonight. [1 Townsfolk is evil]",
@@ -147,7 +147,7 @@
         }
     },
     {
-        "id": "cultleader",
+        "id": "cult_leader",
         "name": "Cult Leader",
         "type": "townsfolk",
         "ability": "Each night, you become the alignment of an alive neighbour. If all good players choose to join your cult, your team wins.",
@@ -174,7 +174,7 @@
         "jinxes": {}
     },
     {
-        "id": "fortuneteller",
+        "id": "fortune_teller",
         "name": "Fortune Teller",
         "type": "townsfolk",
         "ability": "Each night, choose 2 players: you learn if either is a Demon. There is a good player that registers as a Demon to you.",
@@ -236,7 +236,7 @@
         "jinxes": {}
     },
     {
-        "id": "snakecharmer",
+        "id": "snake_charmer",
         "name": "Snake Charmer",
         "type": "townsfolk",
         "ability": "Each night, choose an alive player: a chosen Demon swaps characters & alignments with you & is then poisoned.",
@@ -326,7 +326,7 @@
         "jinxes": {}
     },
     {
-        "id": "towncrier",
+        "id": "town_crier",
         "name": "Town Crier",
         "type": "townsfolk",
         "ability": "Each night*, you learn if a Minion nominated today.",
@@ -605,7 +605,7 @@
         "jinxes": {}
     },
     {
-        "id": "poppygrower",
+        "id": "poppy_grower",
         "name": "Poppy Grower",
         "type": "townsfolk",
         "ability": "Minions & Demons do not know each other. If you die, they learn who each other are that night.",
@@ -643,7 +643,7 @@
         "jinxes": {}
     },
     {
-        "id": "tealady",
+        "id": "tea_lady",
         "name": "Tea Lady",
         "type": "townsfolk",
         "ability": "If both your alive neighbors are good, they can't die.",
@@ -904,7 +904,7 @@
         }
     },
     {
-        "id": "devilsadvocate",
+        "id": "devils_advocate",
         "name": "Devil's Advocate",
         "type": "minion",
         "ability": "Each night, choose a living player (different to last night): if executed tomorrow, they don't die.",
@@ -963,7 +963,7 @@
         "jinxes": {}
     },
     {
-        "id": "pithag",
+        "id": "pit_hag",
         "name": "Pit-Hag",
         "type": "minion",
         "ability": "Each night*, choose a player & a character they become (if not in play). If a Demon is made, deaths tonight are arbitrary.",
@@ -1017,7 +1017,7 @@
         "jinxes": {}
     },
     {
-        "id": "eviltwin",
+        "id": "evil_twin",
         "name": "Evil Twin",
         "type": "minion",
         "ability": "You & an opposing player know each other. If the good player is executed, evil wins. Good can't win if you both live.",
@@ -1064,7 +1064,7 @@
         "jinxes": {}
     },
     {
-        "id": "organgrinder",
+        "id": "organ_grinder",
         "name": "Organ Grinder",
         "type": "minion",
         "ability": "All players keep their eyes closed when voting & the vote tally is secret. Votes for you only count if you vote.",
@@ -1080,7 +1080,7 @@
         }
     },
     {
-        "id": "scarletwoman",
+        "id": "scarlet_woman",
         "name": "Scarlet Woman",
         "type": "minion",
         "ability": "If there are 5 or more players alive & the Demon dies, you become the Demon. (Travellers don't count)",
@@ -1125,7 +1125,7 @@
         }
     },
     {
-        "id": "lilmonsta",
+        "id": "lil_monsta",
         "name": "Lil' Monsta",
         "type": "demon",
         "ability": "Each night, Minions choose who babysits Lil' Monsta's token & \"is the demon\". A player dies each night*. [+1 Minion]",
@@ -1155,7 +1155,7 @@
         "jinxes": {}
     },
     {
-        "id": "alhadikhia",
+        "id": "al_hadikhia",
         "name": "Al-Hadikhia",
         "type": "demon",
         "ability": "Each night*, choose 3 players (all players learn who): each silently chooses to live or die, but if all live, all die.",
@@ -1171,7 +1171,7 @@
         }
     },
     {
-        "id": "fanggu",
+        "id": "fang_gu",
         "name": "Fang Gu",
         "type": "demon",
         "ability": "Each night*, choose a player: they die. The 1st Outsider this kills becomes an evil Fang Gu & you die instead. [+1 Outsider]",
@@ -1227,7 +1227,7 @@
         }
     },
     {
-        "id": "nodashii",
+        "id": "no_dashii",
         "name": "No Dashii",
         "type": "demon",
         "ability": "Each night*, choose a player: they die. Your 2 Townsfolk neighbours are poisoned.",
@@ -1405,7 +1405,7 @@
         "jinxes": {}
     },
     {
-        "id": "bonecollector",
+        "id": "bone_collector",
         "name": "Bone Collector",
         "type": "traveller",
         "ability": "Once per game, at night, choose a dead player: they regain their ability until dusk.",
@@ -1595,7 +1595,7 @@
         "jinxes": {}
     },
     {
-        "id": "hellslibrarian",
+        "id": "hells_librarian",
         "name": "Hell's Librarian",
         "type": "fabled",
         "ability": "Something bad might happen to whoever talks when the Storyteller has asked for silence.",
@@ -1626,7 +1626,7 @@
         "jinxes": {}
     },
     {
-        "id": "spiritofivory",
+        "id": "spirit_of_ivory",
         "name": "Spirit of Ivory",
         "type": "fabled",
         "ability": "There can't be more than 1 extra evil player.",
@@ -1637,7 +1637,7 @@
         "jinxes": {}
     },
     {
-        "id": "stormcatcher",
+        "id": "storm_catcher",
         "name": "Storm Catcher",
         "type": "fabled",
         "ability": "Name a good character. If in play, they can only die by execution, but evil players learn which player it is.",
