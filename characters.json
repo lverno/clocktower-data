@@ -946,7 +946,7 @@
         "jinxes": {
             "alchemist": "The Alchemist can not have the Spy ability.",
             "magician": "When the Spy sees the Grimoire, the Demon and Magician's character tokens are removed.",
-            "poppygrower": "If the Poppy Grower is in play, the Spy does not see the Grimoire until the Poppy Grower dies.",
+            "poppy_grower": "If the Poppy Grower is in play, the Spy does not see the Grimoire until the Poppy Grower dies.",
             "damsel": "Only 1 jinxed character can be in play.",
             "heretic": "Only 1 jinxed character can be in play."
         }
@@ -1046,8 +1046,8 @@
             "Is the Marionette"
         ],
         "jinxes": {
-            "lilmonsta": "The Marionette neighbors a Minion, not the Demon. \nThe Marionette is not woken to choose who takes the Lil' Monsta token, and does not learn they are the Marionette if they have the Lil' Monsta token.",
-            "poppygrower": "When the Poppy Grower dies, the Demon learns the Marionette but the Marionette learns nothing.",
+            "lil_monsta": "The Marionette neighbors a Minion, not the Demon. \nThe Marionette is not woken to choose who takes the Lil' Monsta token, and does not learn they are the Marionette if they have the Lil' Monsta token.",
+            "poppy_grower": "When the Poppy Grower dies, the Demon learns the Marionette but the Marionette learns nothing.",
             "snitch": "The Marionette does not learn 3 not in-play characters. The Demon learns an extra 3 instead.",
             "balloonist": "If the Marionette thinks that they are the Balloonist, +1 Outsider was added.",
             "damsel": "The Marionette does not learn that a Damsel is in play.",
@@ -1119,7 +1119,7 @@
         "jinxes": {
             "alchemist": "The Alchemist can not have the Widow ability.",
             "magician": "When the Widow sees the Grimoire, the Demon and Magician's character tokens are removed.",
-            "poppygrower": "If the Poppy Grower is in play, the Widow does not see the Grimoire until the Poppy Grower dies.",
+            "poppy_grower": "If the Poppy Grower is in play, the Widow does not see the Grimoire until the Poppy Grower dies.",
             "damsel": "Only 1 jinxed character can be in play.",
             "heretic": "Only 1 jinxed character can be in play."
         }
@@ -1135,10 +1135,10 @@
             "Dead"
         ],
         "jinxes": {
-            "poppygrower": "If the Poppy Grower is in play, Minions don't wake together. They are woken one by one, until one of them chooses to take the Lil' Monsta token.",
+            "poppy_grower": "If the Poppy Grower is in play, Minions don't wake together. They are woken one by one, until one of them chooses to take the Lil' Monsta token.",
             "magician": "Only 1 jinxed character can be in play.",
-            "scarletwoman": "If there are 5 or more players alive and the player holding the Lil' Monsta token dies, the Scarlet Woman is given the Lil' Monsta token tonight.",
-            "organgrinder": "Votes for the Organ Grinder count if the Organ Grinder is babysitting Lil' Monsta.",
+            "scarlet_woman": "If there are 5 or more players alive and the player holding the Lil' Monsta token dies, the Scarlet Woman is given the Lil' Monsta token tonight.",
+            "organ_grinder": "Votes for the Organ Grinder count if the Organ Grinder is babysitting Lil' Monsta.",
             "vizier": "The Vizier can die by execution if they are babysitting Lil' Monsta."
         }
     },
@@ -1166,7 +1166,7 @@
             "3"
         ],
         "jinxes": {
-            "scarletwoman": "If there are two living Al-Hadikhias, the Scarlet Woman Al-Hadikhia becomes the Scarlet Woman again.",
+            "scarlet_woman": "If there are two living Al-Hadikhias, the Scarlet Woman Al-Hadikhia becomes the Scarlet Woman again.",
             "mastermind": "Only 1 jinxed character can be in play. Evil players start knowing which player and character it is."
         }
     },
@@ -1181,7 +1181,7 @@
             "Once"
         ],
         "jinxes": {
-            "scarletwoman": "If the Fang Gu chooses an Outsider and dies, the Scarlet Woman does not become the Fang Gu."
+            "scarlet_woman": "If the Fang Gu chooses an Outsider and dies, the Scarlet Woman does not become the Fang Gu."
         }
     },
     {
@@ -1335,7 +1335,7 @@
             "snitch": "If the Snitch is in play, each Riot player gets an extra 3 bluffs.",
             "saint": "If a good player nominates and kills the Saint, the Saint's team loses.",
             "butler": "The Butler can not nominate their master.",
-            "pithag": "If the Pit-Hag creates Riot, all evil players become Riot. \nIf the Pit-Hag creates Riot after day 3, the game continues for one more day.",
+            "pit_hag": "If the Pit-Hag creates Riot, all evil players become Riot. \nIf the Pit-Hag creates Riot after day 3, the game continues for one more day.",
             "mayor": "If the 3rd day begins with just three players alive, the players may choose (as a group) not to nominate at all. If so (and a Mayor is alive) then the Mayor's team wins.",
             "monk": "If a Riot player nominates and kills the Monk-protected-player, the Monk-protected-player does not die.",
             "farmer": "If a Riot player nominates and kills a Farmer, the Farmer uses their ability tonight.",
@@ -1351,10 +1351,10 @@
             "undertaker": "Players that die by nomination register as being executed to the Undertaker.",
             "cannibal": "Players that die by nomination register as being executed to the Cannibal.",
             "pacifist": "Players that die by nomination register as being executed to the Pacifist.",
-            "devilsadvocate": "Players that die by nomination register as being executed to the Devil's Advocate.",
+            "devils_advocate": "Players that die by nomination register as being executed to the Devil's Advocate.",
             "investigator": "Riot registers as a Minion to the Investigator.",
             "clockmaker": "Riot registers as a Minion to the Clockmaker.",
-            "towncrier": "Riot registers as a Minion to the Town Crier.",
+            "town_crier": "Riot registers as a Minion to the Town Crier.",
             "damsel": "Riot registers as a Minion to the Damsel.",
             "preacher": "Riot registers as a Minion to the Preacher."
         }
