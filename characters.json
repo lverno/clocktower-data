@@ -203,6 +203,15 @@
         "jinxes": {}
     },
     {
+        "id": "high_priestess",
+        "name": "High Priestess",
+        "type": "townsfolk",
+        "ability": "Each night, learn which player the Storyteller believes you should talk to most.",
+        "setup": false,
+        "reminders": [],
+        "jinxes": {}
+    },
+    {
         "id": "king",
         "name": "King",
         "type": "townsfolk",
